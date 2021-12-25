@@ -29,7 +29,7 @@
 
 ### Blog posts
 <!-- dev.to:START -->
-
+- [Why will you use default parameters in Javascript?](https://dev.to/webfaisalbd/why-will-you-use-default-parameters-in-javascript-4od5)
 <!-- dev.to:END -->
 
 ### My Skills:
