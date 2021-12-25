@@ -27,9 +27,9 @@
 <p>I am a Junior Full Stack web developer, exploring  web technologies and building websites. I have completed my Bsc. degree in computer science and engineering. In my free time, I am studying new technologies. I am hardworking and self-motivated. </p>
 
 
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Why will you use default parameters in Javascript?](https://dev.to/webfaisalbd/why-will-you-use-default-parameters-in-javascript-4od5)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Skills:
