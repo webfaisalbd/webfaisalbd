@@ -6,7 +6,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/webfaisalbd"><img alt="Github" title="Github" src="https://img.shields.io/badge/Github-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/webfaisalbd/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/webfaisalbd/"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/facebook-%230077B5.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
 </p>
