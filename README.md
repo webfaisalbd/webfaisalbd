@@ -1,4 +1,4 @@
-![Profile views](https://i.ibb.co/Sfz4bVZ/profile-Banner2-600.png)
+
 ## Hi, I'm Faisal Ahmed 
 
 <p align="center">
